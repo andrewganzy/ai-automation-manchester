@@ -1,0 +1,3 @@
+Sitemap: https://andrewganzy.github.io/ai-automation-manchester/sitemap.xml
+User-agent:*
+Disallow:
